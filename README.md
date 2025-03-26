@@ -44,15 +44,12 @@ Environment setup
 ## 🏃 How to Run
 1. Clone the repository  
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/ewfx/sradg-ai-anamoly-detectors.git
    ```
-2. Install dependencies  
+2. Run the project  
    ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
-   ```
-3. Run the project  
-   ```sh
-   npm start  # or python app.py
+   uvicorn app:app --reload  
+   follow instructions from here: https://github.com/ewfx/sradg-ai-anamoly-detectors/blob/main/code/src/README.md
    ```
 
 ## 🏗️ Tech Stack

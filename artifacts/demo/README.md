@@ -1,5 +1,7 @@
-Replace this file with files that you would like to use for your demo. This may include
+##  🎥 Demo
 
-- A presentation/deck in pdf or pptx format
-- A demo video (screen capture) in mp4 or other popular video formats
-- Any other document describing your solution (in pdf or md format)
+https://github.com/ewfx/sradg-ai-anamoly-detectors/blob/main/artifacts/demo/DemoRecording.pptx
+
+## 🖼️ Screenshots:
+
+https://github.com/ewfx/sradg-ai-anamoly-detectors/blob/main/artifacts/demo/Anamoly%20Detection%20AI_Anamoly_Detectors.pptx  

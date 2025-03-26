@@ -18,11 +18,11 @@
 Our system processes financial data files to detect anomalies using an Isolation Forest model trained on historical data. It identifies discrepancies, offers actionable insights, and integrates seamlessly with tools like Jira and email to notify relevant business teams. Clean and effective! 😊
 
 ## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
-🖼️ Screenshots:
+https://github.com/ewfx/sradg-ai-anamoly-detectors/blob/main/artifacts/demo/DemoRecording.pptx
 
-![Screenshot 1](link-to-image)
+## 🖼️ Screenshots:
+
+https://github.com/ewfx/sradg-ai-anamoly-detectors/blob/main/artifacts/demo/Anamoly%20Detection%20AI_Anamoly_Detectors.pptx  
 
 ## 💡 Inspiration
 

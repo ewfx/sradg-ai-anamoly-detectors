@@ -77,10 +77,6 @@ Alerts concerned teams about detected anomalies.
 
 Users can download the processed file with anomaly details.
 
-## **visual diagram of this architecture:**
-
-![img_1.png](img_1.png)
-
 ### **Summary of the Flow**:
 
 📤 User uploads CSV → 🔄 AI detects anomalies → 🔧 Reconciliation actions applied → 📄 Processed file is generated → 📩 Email with attachment sent → ⬇️ Users can download the file
